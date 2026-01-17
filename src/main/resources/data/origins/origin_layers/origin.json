@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "origins": [
+    "origins:human",
+    "origins:avian",
+    "origins:arachnid",
+    "origins:elytrian",
+    "origins:shulk",
+    "origins:enderian",
+    "origins:blazeborn",
+    "origins:merling",
+    "origins:phantom",
+    "origins:slime",
+    "origins-plus-plus:binturong",
+    "origins:modified_binturong"
+  ]
+}
