@@ -1,0 +1,11 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="modifiedbinturong"
+version="1.0.0"
+displayName="Modified Binturong"
+description='''
+Modified Binturong origin for Forge 1.20.1
+'''
